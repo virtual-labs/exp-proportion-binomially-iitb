@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A random sample of 500 apples was taken from a large consignment and 60 were found to be bad. What is the sample proportion of bad apples?",
+      "qid": 1,
+      "option_a": "0.012",
+      "option_b": "1.2",
+      "option_c": "0.12",
+      "option_d": "12",
+      "correct_option": "c"
+   },
+   {
+      "question": "A manufacturer claims that 20% of the manufactured products is of good quality. In one day's production of 400 products, only 40 are of good quality. While testing this problem, what will be the alternative hypothesis?",
+      "qid": 2,
+      "option_a": "P > 0.2 where P is population proportion",
+      "option_b": "P < 0.2 where P is population proportion",
+      "option_c": "P = 0.2 where P is population proportion",
+      "option_d": "P &ne; 0.2 where P is population proportion",
+      "correct_option": "d"
+   }
+]

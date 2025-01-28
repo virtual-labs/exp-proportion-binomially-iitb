@@ -1,0 +1,1 @@
+## 1D: Hypothesis testing: testing the proportion of a Binomially distributed variable

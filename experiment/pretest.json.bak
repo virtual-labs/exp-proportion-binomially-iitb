@@ -1,0 +1,29 @@
+[
+   {
+      "question": "If X is the number of successes in 'n' independent trails with constant probability 'P' of success for each trial then, the expected value of X, denoted by E(X), is given by",
+      "qid": 1,
+      "option_a": "nP",
+      "option_b": "nQ where Q = 1-P",
+      "option_c": "PQ where Q - 1-P",
+      "option_d": "P/n",
+      "correct_option": "a"
+   },
+   {
+      "question": "In a sample of size 'n', let 'x' be the number of persons processing the given attribute then the observed proportion of success(p) is",
+      "qid": 2,
+      "option_a": "p = nx",
+      "option_b": "p = x/n",
+      "option_c": "p = n/x",
+      "option_d": "p = n+x",
+      "correct_option": "b"
+   },
+   {
+      "question": "If X ~ B(n,P) where X is the number of successes in 'n' trails with constant probability P of success. Then for large sample size n, the distribution of X tends to",
+      "qid": 3,
+      "option_a": "Binomial distribution",
+      "option_b": "Negative binomial distribution",
+      "option_c": "Normal distribution",
+      "option_d": "chi-square distribution",
+      "correct_option": "c"
+   }
+]
